@@ -14,7 +14,7 @@ Assumed values:
 - Lm = horizontal distance from pin to point of contact with nut = 1 in. 
 - Ny = avg load to crack macadamia nut = 2177.364 N 
 
-5. Your approach to the problem (e.g. calculations, assumptions made, your thought process, etc.)
+3. Your approach to the problem (e.g. calculations, assumptions made, your thought process, etc.)
 Assumptions: 
 - Only force from the nut is in the vertical direction, same with the force from the hand (Fh)
 - L = 2Lm 
@@ -30,10 +30,10 @@ Calculations:
 ![Solution]({{ "assets/images/olhw5image1.png" | relative_url }}){: class="project-image"}
 
 
-6. A diagram of your nut cracker design. This doesn't need to be fancy, but should be intelligible.
+4. A diagram of your nut cracker design. This doesn't need to be fancy, but should be intelligible.
 
 
-7. Discussion on usability of design.
+5. Discussion on usability of design.
 The original design would have been too small for the average human to hold and still crack open the nut. In the redesign, using a larger force, there will be a longer handle to improve usability. 
 
 ![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: class="project-image"}
