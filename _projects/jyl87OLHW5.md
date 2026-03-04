@@ -28,7 +28,7 @@ Assumptions:
 Thought Process: 
 The moments between the force from the hand and the force from the nut will give a ratio between their respective distances from the pin. This ratio, after assuming a reasonable value for Lm, can be used to calculate the longer length of the nutcracker. 
 
-Calculations:
+**Calculations:**
 
 
 
