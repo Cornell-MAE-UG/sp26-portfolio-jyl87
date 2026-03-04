@@ -2,7 +2,6 @@
 layout: project
 title: OLHW 5a 
 description: Nutcracker Design Problem
-image: 
 ---
 1. The problem statement and objective ("Find")
 Design Problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.
