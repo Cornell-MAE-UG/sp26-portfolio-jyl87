@@ -29,9 +29,8 @@ Thought Process:
 Thought Process: 
 The moments between the force from the hand and the force from the nut will give a ratio between their respective distances from the pin. This ratio, after assuming a reasonable value for Lm, can be used to calculate the longer length of the nutcracker. 
 
-**Calculations:**
-
-
+Calculations:
+![Solution](assets/olhw5image1.png)
 
 6. A diagram of your nut cracker design. This doesn't need to be fancy, but should be intelligible.
 
@@ -46,7 +45,7 @@ Additional Work Shown Below:
     some code = 10;
     plot();
 ```
+![Reflection](assets/olhw5image2.png)
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 
