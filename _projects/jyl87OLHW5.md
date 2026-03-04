@@ -45,7 +45,7 @@ Additional Work Shown Below:
     some code = 10;
     plot();
 ```
-![Reflection](assets/images/olhw5image2.png)
+![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: class="profile-image"}
 
 
 
