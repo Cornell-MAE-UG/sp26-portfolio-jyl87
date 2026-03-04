@@ -9,10 +9,10 @@ Design a nutcracker to make this task feasible, assuming simple geometry.
 
 2. Constraints and Input parameters ("Given")
 Assumed values:
-Wp = vertical distance from pin to force from contact with nut = 1.5 in.
-Fh = max human hand grip strength = 539 N
-Lm = horizontal distance from pin to point of contact with nut = 1 in. 
-Ny = avg load to crack macadamia nut = 2177.364 N 
+- Wp = vertical distance from pin to force from contact with nut = 1.5 in.
+- Fh = max human hand grip strength = 539 N
+- Lm = horizontal distance from pin to point of contact with nut = 1 in. 
+- Ny = avg load to crack macadamia nut = 2177.364 N 
 
 5. Your approach to the problem (e.g. calculations, assumptions made, your thought process, etc.)
 Assumptions: 
