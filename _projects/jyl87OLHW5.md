@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: OLHW 5a 
+description: Nutcracker Design Problem
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
@@ -26,6 +26,7 @@ Assumptions:
 - The nut is a sphere with one point of contact with the nutcracker on either side 
 
 Thought Process: 
+Thought Process: 
 The moments between the force from the hand and the force from the nut will give a ratio between their respective distances from the pin. This ratio, after assuming a reasonable value for Lm, can be used to calculate the longer length of the nutcracker. 
 
 **Calculations:**
@@ -38,7 +39,7 @@ The moments between the force from the hand and the force from the nut will give
 7. Discussion on usability of design.
 The original design would have been too small for the average human to hold and still crack open the nut. In the redesign, using a larger force, there will be a longer handle to improve usability. 
 
-
+Additional Work Shown Below: 
 
 
 ```python
