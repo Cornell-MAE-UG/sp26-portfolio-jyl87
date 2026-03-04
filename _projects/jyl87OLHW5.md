@@ -2,8 +2,7 @@
 layout: project
 title: OLHW 5a 
 description: Nutcracker Design Problem
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: 
 ---
 1. The problem statement and objective ("Find")
 Design Problem: Imagine you have a macadamia nut that you want to crack open by hand using a simple lever nut cracker.
@@ -29,7 +28,7 @@ Thought Process:
 The moments between the force from the hand and the force from the nut will give a ratio between their respective distances from the pin. This ratio, after assuming a reasonable value for Lm, can be used to calculate the longer length of the nutcracker. 
 
 Calculations:
-![Solution]({{ "assets/images/olhw5image1.png" | relative_url }}){: class="profile-image"}
+![Solution]({{ "assets/images/olhw5image1.png" | relative_url }}){: class="project-image"}
 
 
 6. A diagram of your nut cracker design. This doesn't need to be fancy, but should be intelligible.
@@ -38,14 +37,7 @@ Calculations:
 7. Discussion on usability of design.
 The original design would have been too small for the average human to hold and still crack open the nut. In the redesign, using a larger force, there will be a longer handle to improve usability. 
 
-Additional Work Shown Below: 
-
-
-```python
-    some code = 10;
-    plot();
-```
-![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: class="profile-image"}
+![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: class="project-image"}
 
 
 
