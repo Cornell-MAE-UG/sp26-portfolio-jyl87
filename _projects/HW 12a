@@ -4,9 +4,9 @@ title: HW 12
 description: Nutcracker Problem Revisited
 --- 
 
-**Nutcracker Problem from OLHW5a Revisited**
+Nutcracker Problem from OLHW5a Revisited
 
-![Page 1]({{ "assets/images/jyl87HW12a.png" | relative_url }}){: width="50%" }
+![Page 1]({{ "assets/images/jyl87HW12a.png" | relative_url }})
 ![Page 2]({{ "assets/images/jyl87HW12b.png" | relative_url }}){: width="50%" }
 ![Page 3]({{ "assets/images/jyl87HW12c.png" | relative_url }}){: width="50%" }
 ![Page 4]({{ "assets/images/jyl87HW12d.png" | relative_url }}){: width="50%" }
