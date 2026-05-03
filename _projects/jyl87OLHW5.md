@@ -27,7 +27,7 @@ Thought Process:
 The moments between the force from the hand and the force from the nut will give a ratio between their respective distances from the pin. This ratio, after assuming a reasonable value for Lm, can be used to calculate the longer length of the nutcracker. 
 
 Calculations:
-![Solution]({{ "assets/images/olhw5image1.png" | relative_url }}){: class="project-image"}{: width="50%" }
+![Solution]({{ "assets/images/olhw5image1.png" | relative_url }}){: width="75%" }
 
 
 4. A diagram of your nut cracker design. This doesn't need to be fancy, but should be intelligible.
@@ -36,7 +36,7 @@ Calculations:
 5. Discussion on usability of design.
 The original design would have been too small for the average human to hold and still crack open the nut. In the redesign, using a larger force, there will be a longer handle to improve usability. 
 
-![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: class="project-image"}
+![Reflection]({{ "assets/images/olhw5image2.png" | relative_url }}){: width="75%" }
 
 
 
